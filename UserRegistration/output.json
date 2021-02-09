@@ -1,0 +1,32 @@
+[
+    {
+        "id": 0,
+        "firstName": "Mohan",
+        "lastName": "Kandavel",
+        "dob": "28/03/1996",
+        "email": "mohan@gmail.com"
+    },
+    {
+        "id": 1,
+        "firstName": "Robert",
+        "lastName": "Lee",
+        "dob": "04/03/1997",
+        "email": "robert@gmail.com"
+    },
+    {
+        "id": 2,
+        "firstName": "MohanKumar",
+        "lastName": "Kandavel",
+        "dob": "28/03/1996",
+        "email": "mohankumar.be.cse@gmail.com"
+    },
+    {
+        "id": 3,
+        "firstName": "MohanKumar",
+        "lastName": "Kandavel",
+        "dob": "28/02/2020",
+        "email": "mohankumar.be.cse@gmail.com"
+    }
+  
+  
+]
