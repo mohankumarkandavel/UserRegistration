@@ -1,0 +1,3 @@
+[submodule "UserRegistrationApp"]
+	path = UserRegistrationApp
+	url = https://github.com/mohankumarkandavel/UserRegistration/UserRegistrationApp
